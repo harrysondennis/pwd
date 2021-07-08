@@ -56,12 +56,9 @@
 
 <p></p>
 
-@can()
 <li class="nav-item">
     <a href="/changes">
         <button class="btn btn-outline-secondary btn-block border border-0 float-left"><i class="fa fa-key float-left" style="color: white">  CHANGE PASSWORD </i></button>
         <p></p>
     </a>
 </li>
-@endcan
-
